@@ -1,0 +1,20 @@
+1. Types of programs
+    a. Procedural
+    b. Functional
+    c. OOPs
+
+    I. Static Programming
+    II. Dyanamic programming
+
+    A. Stack memory
+    B. Heap memory
+
+2. JDK
+    JRE
+      JVM
+        JIT
+
+    Compiler - JAVAC
+    Archiver - JAR
+        Machine -  .class
+        compiler - .java
