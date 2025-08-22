@@ -40,5 +40,12 @@ public class Index {
         account.deposit(500);
         account.withdraw(200);
         System.out.println("Balance: $" + account.getBalance());
+
+        byte b = 127;
+        short s = 32767;
+        int i = 10000;
+        long l = 100000L;
+        float f = 10.5f;
+        double d = 100.50; 
     }
 }
